@@ -27,6 +27,7 @@ module.exports = {
         "ignoreInitial": true
     },
     "server": true,
+    "https": true,
     "proxy": false,
     "port": 7000,
     "middleware": false,
@@ -53,7 +54,7 @@ module.exports = {
     "xip": false,
     "hostnameSuffix": false,
     "reloadOnRestart": false,
-    "notify": true,
+    "notify": false,
     "scrollProportionally": true,
     "scrollThrottle": 0,
     "scrollRestoreTechnique": "window.name",

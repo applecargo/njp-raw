@@ -1,2 +1,2 @@
-# njp-raw
-njp-raw
+# minimalistic-html-tachyons-javascript-browsersync-starter
+minimalistic-html-tachyons-javascript-browsersync-starter

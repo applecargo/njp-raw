@@ -1,0 +1,12 @@
+{
+  "name": "njp-raw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bs-config.js",
+  "scripts": {
+    "bs": "browser-sync start -c bs-config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
